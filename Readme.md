@@ -60,6 +60,10 @@ Route Protection: With JWT validation, routes can be protected to allow only cer
  
 
 
+https://github.com/user-attachments/assets/6515636e-85b6-4b50-beb4-099fb6f3746e
+
+
+
 
 
 
