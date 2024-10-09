@@ -27,13 +27,13 @@ Proteção de rotas: Com a validação do JWT, as rotas podem ser protegidas par
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/Miguelalmeida01/ProjetoModelNetflix-Next-React.git
+   git clone https://github.com/Miguelalmeida01/ProjetoLogin-Next-React.git
    ```
 
 2. Navegue até o diretório do projeto:
 
    ```bash
-   cd netflix
+   cd login
    ```
 
 3. Instale as dependências:   
@@ -67,4 +67,4 @@ Proteção de rotas: Com a validação do JWT, as rotas podem ser protegidas par
 
 
 
-<a href="https://github.com/Miguelalmeida01/ProjetoModelNetflix-Next-React/blob/main/Readme-pt.md#entrega-de-projeto---criando-uma-interface-inspirado-na-netflix" style="color:#B0E0E6">Voltar</a> 
+<a href="https://github.com/Miguelalmeida01/ProjetoLogin-Next-React/blob/main/Readme-pt.md#funcionalidades-principais" style="color:#B0E0E6">Voltar</a> 

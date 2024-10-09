@@ -22,12 +22,12 @@ Route Protection: With JWT validation, routes can be protected to allow only cer
 1. Clone the repository: 
 
    ```bash 
-   git clone https://github.com/Miguelalmeida01/ProjetoModelNetflix-Next-React.git
+   git clone https://github.com/Miguelalmeida01/ProjetoLogin-Next-React.git
    ``` 
 2. Navigate to the project directory: 
 
    ```bash 
-   cd netflix
+   cd login
    ``` 
 
 3. Install the dependencies: 
@@ -64,5 +64,5 @@ Route Protection: With JWT validation, routes can be protected to allow only cer
 
 
  
-<a href="https://github.com/Miguelalmeida01/ProjetoModelNetflix-Next-React?tab=readme-ov-file#project-delivery---creating-an-interface-inspired-by-netflix" style="color:#B0E0E6;" >
+<a href="https://github.com/Miguelalmeida01/ProjetoLogin-Next-React?tab=readme-ov-file#main-features" style="color:#B0E0E6;" >
 Back</a> 
