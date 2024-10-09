@@ -64,7 +64,11 @@ Proteção de rotas: Com a validação do JWT, as rotas podem ser protegidas par
  
 
 
-Uploading Gravando 2024-10-09 170559.mp4…
+https://github.com/user-attachments/assets/84bc83b0-ad83-4a4f-ad46-4c4b5aec8179
+
+
+
+
 
 
 
